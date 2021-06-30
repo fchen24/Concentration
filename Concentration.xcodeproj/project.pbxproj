@@ -56,15 +56,23 @@
 		7461975D268C7B67002ABE50 /* Concentration */ = {
 			isa = PBXGroup;
 			children = (
-				7461975E268C7B67002ABE50 /* AppDelegate.swift */,
-				74619760268C7B67002ABE50 /* SceneDelegate.swift */,
 				74619762268C7B67002ABE50 /* ViewController.swift */,
 				74619764268C7B67002ABE50 /* Main.storyboard */,
-				74619767268C7B79002ABE50 /* Assets.xcassets */,
 				74619769268C7B79002ABE50 /* LaunchScreen.storyboard */,
+				74619772268C7BD5002ABE50 /* Supporting Files */,
 				7461976C268C7B79002ABE50 /* Info.plist */,
 			);
 			path = Concentration;
+			sourceTree = "<group>";
+		};
+		74619772268C7BD5002ABE50 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7461975E268C7B67002ABE50 /* AppDelegate.swift */,
+				74619760268C7B67002ABE50 /* SceneDelegate.swift */,
+				74619767268C7B79002ABE50 /* Assets.xcassets */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +104,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
 				LastUpgradeCheck = 1300;
+				ORGANIZATIONNAME = "Team CHEN";
 				TargetAttributes = {
 					7461975A268C7B67002ABE50 = {
 						CreatedOnToolsVersion = 13.0;
